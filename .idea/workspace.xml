@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="065b5571-1f8c-444a-87a0-b9109bb8af35" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aC7fbwexeJM4J0GkJDIVapO4in" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ex4" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\mr\PycharmProjects\ex1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\mr\PycharmProjects\ex1\" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.kaoshio">
+    <configuration name="kaoshio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ex1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kaoshio.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="minstCNN (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ex1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/minstCNN.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="minstCNN_keras" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ex1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/minstCNN_keras.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mnistdata" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ex1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mnistdata.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ex1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.kaoshio" />
+        <item itemvalue="Python.minstCNN (1)" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.mnistdata" />
+        <item itemvalue="Python.minstCNN_keras" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="065b5571-1f8c-444a-87a0-b9109bb8af35" name="Default Changelist" comment="" />
+      <created>1586227825828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586227825828</updated>
+      <workItem from="1586227827455" duration="10174000" />
+      <workItem from="1586260231815" duration="1443000" />
+      <workItem from="1586306469045" duration="303000" />
+      <workItem from="1586306831952" duration="7179000" />
+      <workItem from="1587040180186" duration="1338000" />
+      <workItem from="1587088544722" duration="21000" />
+      <workItem from="1587541373663" duration="2585000" />
+      <workItem from="1587611400540" duration="4964000" />
+      <workItem from="1587688863163" duration="9189000" />
+      <workItem from="1590022214453" duration="10371000" />
+      <workItem from="1590107990831" duration="12128000" />
+      <workItem from="1590145338519" duration="3711000" />
+      <workItem from="1590198802576" duration="4817000" />
+      <workItem from="1590493143788" duration="41000" />
+      <workItem from="1590540241492" duration="704000" />
+      <workItem from="1590825407232" duration="2088000" />
+      <workItem from="1592226531948" duration="884000" />
+      <workItem from="1592699958481" duration="51000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="283" y="198" key="FileChooserDialogImpl" timestamp="1592700005568">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="283" y="198" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1592700005568" />
+    <state width="1012" height="224" key="GridCell.Tab.0.bottom" timestamp="1592231707437">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1012" height="224" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1592231707437" />
+    <state width="1012" height="224" key="GridCell.Tab.0.center" timestamp="1592231707436">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1012" height="224" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1592231707436" />
+    <state width="1012" height="224" key="GridCell.Tab.0.left" timestamp="1592231707436">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1012" height="224" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1592231707436" />
+    <state width="1012" height="224" key="GridCell.Tab.0.right" timestamp="1592231707437">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1012" height="224" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1592231707437" />
+    <state width="1014" height="244" key="GridCell.Tab.1.bottom" timestamp="1590070334798">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1014" height="244" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1590070334798" />
+    <state width="1014" height="244" key="GridCell.Tab.1.center" timestamp="1590070334798">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1014" height="244" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1590070334797" />
+    <state width="1014" height="244" key="GridCell.Tab.1.left" timestamp="1590070334797">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1014" height="244" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1590070334797" />
+    <state width="1014" height="244" key="GridCell.Tab.1.right" timestamp="1590070334798">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1014" height="244" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1590070334798" />
+    <state x="267" y="54" width="916" height="710" key="SettingsEditor" timestamp="1587778147680">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="267" y="54" width="916" height="710" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1587778147680" />
+    <state x="944" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1587611766459">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="944" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1587611766459" />
+    <state x="0" y="146" key="vcs.ApplyPatchDifferentiatedDialog" timestamp="1586228370154">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="0" y="146" key="vcs.ApplyPatchDifferentiatedDialog/0.0.1366.768@0.0.1366.768" timestamp="1586228370154" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/minstCNN.py</url>
+          <line>189</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ex1$test.coverage" NAME="test Coverage Results" MODIFIED="1590125804224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ex1$minstCNN.coverage" NAME="minstCNN Coverage Results" MODIFIED="1586260018207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
+    <SUITE FILE_PATH="coverage/ex1$minst_keras.coverage" NAME="minst_keras Coverage Results" MODIFIED="1587612400220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ex1$mnistdata.coverage" NAME="mnistdata Coverage Results" MODIFIED="1590116245495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ex1$minstCNN_keras.coverage" NAME="minstCNN_keras Coverage Results" MODIFIED="1587779056997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ex1$kaoshio.coverage" NAME="kaoshio Coverage Results" MODIFIED="1592226568466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ex1$minstdemo.coverage" NAME="minstdemo Coverage Results" MODIFIED="1586234542520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ex1$minstCNN__1_.coverage" NAME="minstCNN (1) Coverage Results" MODIFIED="1590153028149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ex1$demo.coverage" NAME="demo Coverage Results" MODIFIED="1586247268595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
